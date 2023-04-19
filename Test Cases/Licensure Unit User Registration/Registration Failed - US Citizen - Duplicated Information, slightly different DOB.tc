@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register a citizen that does have their email or SSN in the system and does have a user account that represents the email already in the system.  Should not be allowed to register.</description>
+   <name>Registration Failed - US Citizen - Duplicated Information, slightly different DOB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0847714-5233-4ca1-bcce-050a54bd88da</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>123e55f5-7c04-4a02-b054-1f503b58b354</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>454cb766-afe5-4ba2-9b9f-364ac63a720d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b65fe60-4798-4254-8978-b2aa4860ba77</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e265c0a9-db7f-4eb9-a672-ecff5fe7347c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Alaska'</defaultValue>
+      <description></description>
+      <id>123e55f5-7c04-4a02-b054-1f503b58b354</id>
+      <masked>false</masked>
+      <name>placeOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>'33513'</defaultValue>
+      <description></description>
+      <id>454cb766-afe5-4ba2-9b9f-364ac63a720d</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'3 CR 542D'</defaultValue>
+      <description></description>
+      <id>3b65fe60-4798-4254-8978-b2aa4860ba77</id>
+      <masked>false</masked>
+      <name>addressLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'2222222222'</defaultValue>
+      <description></description>
+      <id>e265c0a9-db7f-4eb9-a672-ecff5fe7347c</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+</TestCaseEntity>

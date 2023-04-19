@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit appeal with valid denial code from Public link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e835c6f7-eb3c-472a-acee-68e33004350f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Adding a hold to the license detail record manually will display a message when viewing the individual record that the individual is on hold.
+
+Hold message should also appear when opening the license detail record.</description>
+   <name>Add a Hold on License Detail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93ee8a21-53e6-45cd-9eaf-af2192237bde</testCaseGuid>
+</TestCaseEntity>

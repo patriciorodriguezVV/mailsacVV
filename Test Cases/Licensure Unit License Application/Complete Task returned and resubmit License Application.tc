@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login as an applicant and complete the checklist task that was returned and resubmit the application.</description>
+   <name>Complete Task returned and resubmit License Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a71f36f5-7518-4e4b-8a0a-e65c921dc9af</testCaseGuid>
+</TestCaseEntity>

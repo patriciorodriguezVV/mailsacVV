@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register and Verify Individual Record Created - US Citizen - With SSN (via GUI)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>739dbcb8-0686-418a-82e9-e0a8070fdf76</testCaseGuid>
+</TestCaseEntity>

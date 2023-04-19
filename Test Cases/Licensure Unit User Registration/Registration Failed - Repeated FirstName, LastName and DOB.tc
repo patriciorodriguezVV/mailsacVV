@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Failed - Repeated FirstName, LastName and DOB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab40ffda-1576-41f1-8c44-48db3e2a1cbb</testCaseGuid>
+</TestCaseEntity>

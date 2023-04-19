@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make license inactive will change the status of the record to be inactive, will set an end date on the existing license status record and will create a new license status record that has a start date of today, status of inactive and no end date.</description>
+   <name>Make license inactive - Physical Therapist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>464637f7-894e-4434-8cdb-3a4e4c613d34</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add a discipline on an active License Application with a LU Staff user.
+New discipline record becomes visible but is not saved when adding in this context</description>
+   <name>Add Disciplinary or Licensure Event as License Manager</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad0b58bb-c9b2-4353-81aa-df366e2d60c8</testCaseGuid>
+</TestCaseEntity>

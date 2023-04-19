@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Must exist at least one checklist task where Request more information is selected.  When selecting deficient license, return the application to the applicant, do not keep.</description>
+   <name>Mark License Deficient and keep the Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a667aae-fc2e-4e34-902f-88edac66e53f</testCaseGuid>
+</TestCaseEntity>

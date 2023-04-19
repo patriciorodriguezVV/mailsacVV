@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Failed - User cease and desist - US Citizen - Sounds like first name - Duplicated Last Name - contact DHH</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d8f3192-ae7c-477f-b1bd-ddc11b621148</testCaseGuid>
+</TestCaseEntity>

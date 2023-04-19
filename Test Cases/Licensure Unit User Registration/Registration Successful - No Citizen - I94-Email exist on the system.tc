@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register a foreign citizen that does have their email or Alien Registration ID in the system and does have a user account that represents the email already in the system.  Should not be allowed to register</description>
+   <name>Registration Successful - No Citizen - I94-Email exist on the system</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3599a23-c796-42f0-bd41-f9da8bc6e8a8</testCaseGuid>
+   <variable>
+      <defaultValue>'Toronto\r\n'</defaultValue>
+      <description></description>
+      <id>21dfb433-d699-4c45-81f8-3e3d46d5ee5f</id>
+      <masked>false</masked>
+      <name>placeOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>'Adress Test 1233'</defaultValue>
+      <description></description>
+      <id>a630131c-f2f3-4da4-a4c5-75aea3574c50</id>
+      <masked>false</masked>
+      <name>addressLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'M1R 0E9'</defaultValue>
+      <description></description>
+      <id>307a3b36-2176-469a-b64b-1bd129ddd3a0</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'2222222222'</defaultValue>
+      <description></description>
+      <id>35c6e649-7f2b-45cf-ad70-19b0e83bf9a7</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+</TestCaseEntity>

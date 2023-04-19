@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register a foreign citizen that does have their email or Alien Registration ID in the system and does have a user account that represents the email already in the system.  Should not be allowed to register</description>
+   <name>Registration Successful - US Citizen - SSN-Email exist on the system</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3e09958-514a-4ac7-ba4b-b53789fa190c</testCaseGuid>
+   <variable>
+      <defaultValue>'Alaska'</defaultValue>
+      <description></description>
+      <id>7ffd8e03-0dad-4987-a05c-603c9bd1034e</id>
+      <masked>false</masked>
+      <name>placeOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>'3 CR 542D'</defaultValue>
+      <description></description>
+      <id>beeb7d8c-bf11-486b-ac21-da43e1bcaeeb</id>
+      <masked>false</masked>
+      <name>addressLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'33513'</defaultValue>
+      <description></description>
+      <id>9a5f12f9-257a-44d2-9bae-f2e31295eb25</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'2222222222'</defaultValue>
+      <description></description>
+      <id>ae052906-1429-49aa-9fc8-f9d460d3e7ec</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+</TestCaseEntity>

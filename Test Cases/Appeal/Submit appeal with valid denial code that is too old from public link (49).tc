@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Submit appeal with valid denial code that is too old from public link (49)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fde13ee-2a73-4bc2-9456-034cc6d68446</testCaseGuid>
+</TestCaseEntity>

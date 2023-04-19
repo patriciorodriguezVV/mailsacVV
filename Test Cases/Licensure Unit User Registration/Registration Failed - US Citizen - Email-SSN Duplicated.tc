@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register a citizen that does have their email or SSN in the system and does have a user account that represents the email already in the system.  Should not be allowed to register.</description>
+   <name>Registration Failed - US Citizen - Email-SSN Duplicated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d96e96f4-4571-461f-8a54-795f5096efcc</testCaseGuid>
+   <variable>
+      <defaultValue>'Alaska'</defaultValue>
+      <description></description>
+      <id>c7921acd-df9e-4a9a-bd73-d1a021bf83ba</id>
+      <masked>false</masked>
+      <name>placeOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>'33513'</defaultValue>
+      <description></description>
+      <id>528b66d6-b585-4a98-bd2e-1f70465e86a8</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'3 CR 542D'</defaultValue>
+      <description></description>
+      <id>025b7e82-593a-4d53-8a19-e8f38ae9a0c9</id>
+      <masked>false</masked>
+      <name>addressLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'2222222222'</defaultValue>
+      <description></description>
+      <id>446dec11-c803-41b4-9b8f-56e9674e3fcb</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+</TestCaseEntity>

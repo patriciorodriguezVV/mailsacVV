@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Individual Record - US Citizen - With SSN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9b206edf-c741-4da1-ba8a-15279deb3577</testCaseGuid>
+   <variable>
+      <defaultValue>'Alaska'</defaultValue>
+      <description></description>
+      <id>cbba59b3-2cea-4f4b-89a2-af18045f85db</id>
+      <masked>false</masked>
+      <name>placeOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>'33513'</defaultValue>
+      <description></description>
+      <id>366a9df3-0a49-4545-85ef-bb39112ce0f4</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'3 CR 542D'</defaultValue>
+      <description></description>
+      <id>b889fdc1-0fc8-4931-b65a-40d464a72ad7</id>
+      <masked>false</masked>
+      <name>addressLine1</name>
+   </variable>
+   <variable>
+      <defaultValue>'2323232323'</defaultValue>
+      <description></description>
+      <id>89d8dc98-980f-41f2-9c56-8454bcd60ad9</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+</TestCaseEntity>

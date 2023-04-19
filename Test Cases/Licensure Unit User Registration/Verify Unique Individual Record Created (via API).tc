@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On this Test Case we verify that the form Individual Record was created correctly and is Unique.</description>
+   <name>Verify Unique Individual Record Created (via API)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a863315f-fd6a-4c77-9681-03dc8657f592</testCaseGuid>
+</TestCaseEntity>

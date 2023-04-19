@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On this Test Case, Applicant apply for a Physical Therapist using Reciprocity, this means that user selected YES on the question &quot;Are you licensed as a(n) Physical Therapist in another state or jurisdiction?&quot;</description>
+   <name>Apply for a License - Physical Therapist - Reciprocity</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34c30620-e01b-4960-a6ef-61b22280a861</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>49858cd8-96a0-416a-8c7d-8010e91552b6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>391eebd1-92b7-4216-9936-a9e8f882a2ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5758f64e-d723-4cf7-acb4-e25eb6f6c9cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c0facb11-fa8b-47fc-b92e-276e14980510</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'4111111111111111'</defaultValue>
+      <description></description>
+      <id>49858cd8-96a0-416a-8c7d-8010e91552b6</id>
+      <masked>false</masked>
+      <name>CreditCard_Number</name>
+   </variable>
+   <variable>
+      <defaultValue>'11'</defaultValue>
+      <description></description>
+      <id>391eebd1-92b7-4216-9936-a9e8f882a2ce</id>
+      <masked>false</masked>
+      <name>ExpiredMonth_CreditCard</name>
+   </variable>
+   <variable>
+      <defaultValue>'2030'</defaultValue>
+      <description></description>
+      <id>5758f64e-d723-4cf7-acb4-e25eb6f6c9cc</id>
+      <masked>false</masked>
+      <name>ExpiredYear_CreditCard</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>c0facb11-fa8b-47fc-b92e-276e14980510</id>
+      <masked>false</masked>
+      <name>SecurityCode_CreditCard</name>
+   </variable>
+</TestCaseEntity>

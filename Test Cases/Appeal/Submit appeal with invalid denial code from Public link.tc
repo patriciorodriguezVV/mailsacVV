@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On this Test Case the Admin User approve the License Application.</description>
+   <name>Submit appeal with invalid denial code from Public link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9a31209-0335-4eb1-b241-50dd6231fb5e</testCaseGuid>
+</TestCaseEntity>

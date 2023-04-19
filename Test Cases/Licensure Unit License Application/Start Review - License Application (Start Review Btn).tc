@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>On this Test Case the Admin User approve the License Application.</description>
+   <name>Start Review - License Application (Start Review Btn)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3c51a65-c8c1-4a3b-88ee-23670204c394</testCaseGuid>
+</TestCaseEntity>

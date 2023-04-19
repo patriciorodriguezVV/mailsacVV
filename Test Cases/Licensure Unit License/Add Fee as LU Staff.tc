@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>LU Staff can add a fee at any time to the License Details record.
+
+Applicant can login and start a shopping cart from their My Finances tab.  This new item should be included in their shopping cart.</description>
+   <name>Add Fee as LU Staff</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6fc0c86-4b37-438b-995b-ba665ead83a5</testCaseGuid>
+</TestCaseEntity>

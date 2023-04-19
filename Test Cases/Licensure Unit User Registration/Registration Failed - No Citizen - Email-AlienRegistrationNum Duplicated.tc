@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register a foreign citizen that does have their email or Alien Registration ID in the system and does have a user account that represents the email already in the system.  Should not be allowed to register.</description>
+   <name>Registration Failed - No Citizen - Email-AlienRegistrationNum Duplicated</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7375de83-1c99-4283-9b19-c5d2c20ffe15</testCaseGuid>
+   <variable>
+      <defaultValue>'M1R 0E9'</defaultValue>
+      <description></description>
+      <id>a9f2be25-c204-44de-992b-799cd6006f84</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'Address Line 1234'</defaultValue>
+      <description></description>
+      <id>085cb172-7860-431b-bb0e-30122faf768a</id>
+      <masked>false</masked>
+      <name>addressLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'2222222222'</defaultValue>
+      <description></description>
+      <id>6f85fa27-c614-4a4e-a466-2c560de4abeb</id>
+      <masked>false</masked>
+      <name>phoneNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Toronto'</defaultValue>
+      <description></description>
+      <id>0a661c61-8886-465f-bc93-b69bc8f90c3d</id>
+      <masked>false</masked>
+      <name>placeOfBirth</name>
+   </variable>
+</TestCaseEntity>

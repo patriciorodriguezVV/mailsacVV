@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registration Successful - No Citizen - With I94</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c404608-126c-48a3-b08f-7749a7993001</testCaseGuid>
+   <variable>
+      <defaultValue>'Montevideo'</defaultValue>
+      <description></description>
+      <id>4ba6e432-a348-4e13-a0ba-64082e3ed953</id>
+      <masked>false</masked>
+      <name>PlaceOfBirth</name>
+   </variable>
+   <variable>
+      <defaultValue>'Address 1234'</defaultValue>
+      <description></description>
+      <id>585a1dfb-2161-48ce-87b4-c0d60aac9a08</id>
+      <masked>false</masked>
+      <name>AddressLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'2222222222'</defaultValue>
+      <description></description>
+      <id>2037a4c5-6723-420e-9c01-cc897ad50517</id>
+      <masked>false</masked>
+      <name>PhoneNumber</name>
+   </variable>
+</TestCaseEntity>
