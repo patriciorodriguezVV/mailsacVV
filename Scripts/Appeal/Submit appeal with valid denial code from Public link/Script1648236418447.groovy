@@ -19,7 +19,7 @@ import internal.GlobalVariable as GlobalVariable
 // Verify Parents TC have not failed ---
 // Set TCs dependency
 String[] parentsTC = ['Test Cases/Licensure Unit License Application/Deny License Application']
-// Verify any TC dependency has failed
+// Verify any TC dependency has failed2
 CustomKeywords.'tc_listener.tcl.checkErrors'(parentsTC)
 
 // Go to Appeal Public Link
