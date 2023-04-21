@@ -1,0 +1,52 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Cache
+.cache
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+Libs/TempTestCase*.groovy
+Libs/TempTestSuite*.groovy
+Reports
+settings/internal/com.kms.katalon.integration.analytics.properties
+settings/internal/com.kms.katalon.integration.jira.properties
+settings/internal/com.kms.katalon.composer.testcase.properties
+settings/internal/com.kms.katalon.core.webservice.properties
+
+
+
+\.classpath
+\.project
+\.settings/
+bin/lib/
+Libs/
+ScreenShots/*.png
+bin/keyword/.gitignore
+
+
+# Katalon Test Suite
+Libs/TempTestCase*
+Libs/TempTestSuite*
+bin/lib/TempTestCase*
+Reports/
+*.swp
+/bin/

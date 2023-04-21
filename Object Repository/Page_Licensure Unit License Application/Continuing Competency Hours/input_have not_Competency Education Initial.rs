@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_have not_Competency Education Initial</name>
+   <tag></tag>
+   <elementGuidId>b95699ac-79db-45e6-8069-561e3469cad9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Competency Education Initial']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>ac4ae8a4-f9a6-47a3-8348-9365a680a62a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>48c1ddaa-f99f-4c1e-98c2-68c9c2dee322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Competency Education Initial</value>
+      <webElementGuid>4e36844c-1aae-4433-8fd4-f9866de113b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>cc3b6550-2209-4e3b-b029-1bebebb992ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Competency Education Initial</value>
+      <webElementGuid>37faa466-fa0a-46e8-9876-75707e067500</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldtype</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>74566776-5bea-4c3c-889a-8147f508791a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldname</name>
+      <type>Main</type>
+      <value>Competency Education Initial</value>
+      <webElementGuid>9e372bea-fca6-4400-9dab-0af6219c376c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldvalueid</name>
+      <type>Main</type>
+      <value>5fbd1c9e-6c39-ef86-696d-dd5745213c7d</value>
+      <webElementGuid>ce88cc60-6081-475e-9b84-bddbd54d9736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>a6d2ff10-3396-437e-8e57-500d3408a5f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Competency Education Initial&quot;)</value>
+      <webElementGuid>5a271153-9b8c-48c1-ab77-90e3b9b6dd78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='Competency Education Initial']</value>
+      <webElementGuid>3dd68f34-98fa-4903-ac5b-fb5d7da83441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/viewer-tab-form/div/div[2]/div/div/div[245]/div/div/input</value>
+      <webElementGuid>7af6b12c-9bda-46c1-93bf-3999e42dd439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[245]/div/div/input</value>
+      <webElementGuid>7b397585-03c4-405f-9bea-fd3a77f335f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @title = 'Competency Education Initial' and @id = 'Competency Education Initial']</value>
+      <webElementGuid>2ddbb9f9-0bac-4d58-9340-d8b75585d029</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

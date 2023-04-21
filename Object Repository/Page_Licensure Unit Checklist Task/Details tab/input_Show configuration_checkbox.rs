@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Show configuration_checkbox</name>
+   <tag></tag>
+   <elementGuidId>f4d4decb-412d-4867-8f01-19655c8519b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='Show Configuration']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>79957059-dea7-4d55-8a0c-7fa7fbd4d6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>f9b4b389-24f7-44d4-a75c-2406888cad6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show Configuration</value>
+      <webElementGuid>65856006-e0e7-43dd-9923-f149cc02d648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>73196619-06de-47e3-b374-1541f03cd6ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Show Configuration</value>
+      <webElementGuid>2f832179-5b12-4c35-9ac9-c030186ede4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldtype</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>a119add5-bd43-48dc-b3ca-ff4dbb82a058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldname</name>
+      <type>Main</type>
+      <value>Show Configuration</value>
+      <webElementGuid>fd23ac76-14a4-40e6-8640-09cea2533608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldvalueid</name>
+      <type>Main</type>
+      <value>703c4a72-466f-7e51-f31a-c3db83f0667a</value>
+      <webElementGuid>8ad0a0fc-f298-4800-b704-808d0aacdecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>36227116-1800-4001-aa83-4b818db454f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Show Configuration&quot;)</value>
+      <webElementGuid>f340a2f8-9f52-4993-a87f-4e2125426c4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='Show Configuration']</value>
+      <webElementGuid>6542a48d-a88a-477e-9b35-576800aa330a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/viewer-tab-form/div/div[2]/div/div/div[22]/div/div/input</value>
+      <webElementGuid>57f8b103-773c-448d-a26c-e3318885e60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[22]/div/div/input</value>
+      <webElementGuid>172285bd-d692-4da7-961b-c4ac553a502f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'checkbox' and @title = 'Show Configuration' and @id = 'Show Configuration']</value>
+      <webElementGuid>1d06c131-3fda-481f-9997-23b6ddddf4c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

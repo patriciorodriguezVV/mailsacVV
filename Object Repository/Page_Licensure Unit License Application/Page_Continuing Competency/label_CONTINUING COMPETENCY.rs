@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_CONTINUING COMPETENCY</name>
+   <tag></tag>
+   <elementGuidId>5296be7b-db95-41e9-b203-a8dab34fa2ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='k-tabstrip-tabpanel-0']/viewer-tab-form/div/div[2]/div/div/div[238]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c847e139-566f-4bce-b566-20708da39cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldtype</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1bfd426d-26d1-4b3d-af6c-31863422c158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldname</name>
+      <type>Main</type>
+      <value>Label501</value>
+      <webElementGuid>393ff2b9-37bd-45f5-b844-5e3847cd55f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldvalueid</name>
+      <type>Main</type>
+      <value>00f4436b-7bb4-066b-48c3-25cba668d6c3</value>
+      <webElementGuid>d7613c86-5104-4cd0-8015-b3f40ad87976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fd-label k-label</value>
+      <webElementGuid>e5448f8d-8ecd-4de6-8796-a51ffa007a61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTINUING COMPETENCY  </value>
+      <webElementGuid>1e91855d-f113-4da4-85f6-22dea585388a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-tabstrip-tabpanel-0&quot;)/viewer-tab-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;viewer-tab route-app&quot;]/div[@class=&quot;viewer-tab-content form-viewer-area&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-view-page ng-star-inserted&quot;]/div[@class=&quot;container-div styleDefault flowColumn ng-star-inserted&quot;]/div[@class=&quot;field-div ng-star-inserted&quot;]/label[@class=&quot;fd-label k-label&quot;]</value>
+      <webElementGuid>2e765fcd-0e11-46fb-adbc-09806561935c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/viewer-tab-form/div/div[2]/div/div/div[238]/div/label</value>
+      <webElementGuid>7d726651-4479-4eb7-850a-423b3a9f157e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records available.'])[15]/following::label[1]</value>
+      <webElementGuid>7d7d83c2-5e00-43bb-9efb-a9769a0bf450</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Continuing Education'])[1]/following::label[1]</value>
+      <webElementGuid>52204a22-3b1c-4f1b-894e-13a3467581d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuing Competency Hours'])[1]/preceding::label[1]</value>
+      <webElementGuid>a364caf5-e178-4926-915f-b1637f840613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Has the applicant met the continuing competency requirements for their profession?'])[1]/preceding::label[2]</value>
+      <webElementGuid>a1b15021-7fd8-4d76-9d3e-fd5d04785a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONTINUING COMPETENCY']/parent::*</value>
+      <webElementGuid>9435951c-7543-423d-9957-89e0a771d3ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[238]/div/label</value>
+      <webElementGuid>06e5727e-d833-4431-bd05-8c6189a9bc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'CONTINUING COMPETENCY  ' or . = 'CONTINUING COMPETENCY  ')]</value>
+      <webElementGuid>bb745d97-dea3-47e3-83e5-1de631cf8faf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

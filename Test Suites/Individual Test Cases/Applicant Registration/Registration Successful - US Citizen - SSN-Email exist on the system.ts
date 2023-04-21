@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Registration Successful - US Citizen - SSN-Email exist on the system</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>4a2671b9-dfaa-4766-a93c-5d8261e578f3</testSuiteGuid>
+   <testCaseLink>
+      <guid>952608e3-1ff7-44e4-ac07-f2b2a1f15324</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Licensure Unit User Registration/Registration Successful - US Citizen - SSN-Email exist on the system</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7ffd8e03-0dad-4987-a05c-603c9bd1034e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>beeb7d8c-bf11-486b-ac21-da43e1bcaeeb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9a5f12f9-257a-44d2-9bae-f2e31295eb25</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ae052906-1429-49aa-9fc8-f9d460d3e7ec</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>dcd5d481-c301-4039-8490-a4bd57ea51ad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Licensure Unit User Registration/Reset Password and Complete Registration Process</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

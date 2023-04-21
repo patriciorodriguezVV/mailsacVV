@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pass_Fail_Arrow</name>
+   <tag></tag>
+   <elementGuidId>f8c0efc0-b3d6-4e25-8606-98840b430ed3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-dropdownlist[@id='Pass Fail']/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#k-6905fd3c-80bd-40a3-aa8d-118c6f5119ec > span.k-select > span.k-icon.k-i-arrow-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15112473-5706-4865-984c-92f5c696b549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>cb36b77f-7cf7-4c56-9d58-b1eb90182c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-s</value>
+      <webElementGuid>3f702e70-ba1a-451f-a944-d847bff7be1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-6905fd3c-80bd-40a3-aa8d-118c6f5119ec&quot;)/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>06749e04-bc61-4857-a8bb-93af1d0a5a54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-6905fd3c-80bd-40a3-aa8d-118c6f5119ec']/span[2]/span</value>
+      <webElementGuid>dd1bfebc-9c66-44ad-824b-597c8b5d115a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/kendo-dropdownlist/span/span[2]/span</value>
+      <webElementGuid>c3bb8bc3-1fc9-4576-8625-d4ce2ab2158f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

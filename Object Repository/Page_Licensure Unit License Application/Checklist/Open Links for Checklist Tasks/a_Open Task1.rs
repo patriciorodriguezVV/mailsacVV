@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open Task1</name>
+   <tag></tag>
+   <elementGuidId>c979465a-7ea2-4ab6-bb1d-0e5568e34282</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RRCChecklist']/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.grid-cell-link.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>da8a99a8-2e82-49c8-a320-9f7139d43327</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-cell-link ng-star-inserted</value>
+      <webElementGuid>566a7b32-3ad4-45e7-8e2a-185a2864d897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>4037482b-5bc8-427d-bc51-1d199c6a2688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RRCChecklist&quot;)/kendo-grid[@class=&quot;rrc-grid k-widget k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;d7ee98f5-668a-9963-5dc4-b042c46691da hAlignLeft vAlignMiddle ng-star-inserted&quot;]/a[@class=&quot;grid-cell-link ng-star-inserted&quot;]</value>
+      <webElementGuid>3fb52901-7454-4fce-8122-049d20a433e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RRCChecklist']/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr/td/a</value>
+      <webElementGuid>b81c0e32-cee6-4a4a-9bd7-e3391a5c43d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Open')]</value>
+      <webElementGuid>937dd82d-111c-46ee-81a4-0f4db50ec5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment Added'])[1]/following::a[1]</value>
+      <webElementGuid>e2b51c42-d9ff-4dc7-a7ec-781004447b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required Document Type'])[1]/following::a[1]</value>
+      <webElementGuid>0e9e9eac-a51f-4069-a13d-c900dc2f71d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Citizenship Documentation for tcijw hgsov and license Physical Therapist'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a6e44f6-a9d3-42bf-8dbc-9412fc6bb95a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waiting Approval'])[1]/preceding::a[1]</value>
+      <webElementGuid>25e49889-8c9b-4353-8823-9e2874247719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Open']/parent::*</value>
+      <webElementGuid>fbb2daf0-97f1-4e85-b27a-459e9bdd0038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>69ad5066-9606-4198-bdaf-a29cb3cad428</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

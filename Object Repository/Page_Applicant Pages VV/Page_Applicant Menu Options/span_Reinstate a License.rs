@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Reinstate a License</name>
+   <tag></tag>
+   <elementGuidId>33bec9d3-50b2-4046-8c26-2fbd9edc3387</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_CtrlMenu1_RadMenu1']/div[2]/div/div/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ae49021a-d07d-4b0d-9588-a2ca8e454eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rmText</value>
+      <webElementGuid>a193ed1a-1e50-4959-8178-d89a314ddb4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reinstate a License</value>
+      <webElementGuid>77a3c706-36f2-48d6-b244-fc0daae61558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_CtrlMenu1_RadMenu1&quot;)/div[@class=&quot;rmHorizontal rmRootGroup&quot;]/div[@class=&quot;rmGroup&quot;]/div[@class=&quot;rmSlide&quot;]/ul[@class=&quot;rmVertical rmGroup rmLevel1&quot;]/li[@class=&quot;rmItem&quot;]/a[@class=&quot;rmLink&quot;]/span[@class=&quot;rmText&quot;]</value>
+      <webElementGuid>fce9f072-5d4c-4010-ab39-e852f4d6e942</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_CtrlMenu1_RadMenu1']/div[2]/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>d5bd5eee-1555-4350-9798-91727ac9b715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Renew a License'])[1]/following::span[1]</value>
+      <webElementGuid>627840f4-91e4-479c-998d-dbc6de40d17e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/following::span[2]</value>
+      <webElementGuid>b8952b70-d05e-4cac-a359-fde36c3145a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preliminary Conviction Review'])[1]/preceding::span[1]</value>
+      <webElementGuid>e8741094-2c05-41c7-b825-8f062948e0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::span[2]</value>
+      <webElementGuid>d072a6f6-3fd4-4108-855c-0d560ede0012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reinstate a License']/parent::*</value>
+      <webElementGuid>6ac81ba2-987c-4b91-b2bd-68a0c0dfcd94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/ul/li[2]/a/span</value>
+      <webElementGuid>df5ce48d-c781-4084-8362-0adbf80c030c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Reinstate a License' or . = 'Reinstate a License')]</value>
+      <webElementGuid>10008ff5-4e62-47e6-b6ea-5d26fe40ab45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

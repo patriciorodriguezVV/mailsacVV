@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Open Task4</name>
+   <tag></tag>
+   <elementGuidId>0ec64809-1893-4e3e-b6bd-715fe2a362ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RRCChecklist']/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[4]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d132e365-4f4b-4fd9-80f1-3440d45c7220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-cell-link ng-star-inserted</value>
+      <webElementGuid>12bb66fa-4915-4c9d-8aee-8e70cb4da99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Open</value>
+      <webElementGuid>2bddef34-4cf2-4ab7-9d17-6974d25e45dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RRCChecklist&quot;)/kendo-grid[@class=&quot;rrc-grid k-widget k-grid&quot;]/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;k-alt ng-star-inserted&quot;]/td[@class=&quot;d7ee98f5-668a-9963-5dc4-b042c46691da hAlignLeft vAlignMiddle ng-star-inserted&quot;]/a[@class=&quot;grid-cell-link ng-star-inserted&quot;]</value>
+      <webElementGuid>50f63954-4546-4b67-92d1-da30bd6388b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RRCChecklist']/kendo-grid/div/kendo-grid-list/div/div/table/tbody/tr[4]/td/a</value>
+      <webElementGuid>16ac612e-f55c-4144-afa2-d5dcfdf02c0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Open')])[4]</value>
+      <webElementGuid>659fcb2c-3e19-4c2f-bf94-6b6d13912e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[10]/following::a[1]</value>
+      <webElementGuid>06991fce-01ea-4050-ab01-a97ef8de5189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transcripts'])[1]/following::a[1]</value>
+      <webElementGuid>85847852-78ce-4b7a-be22-89cf05ac57d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Minimum Education for tcijw hgsov and license Physical Therapist'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed46657b-e64f-41c7-affd-68b77b2b190d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waiting Approval'])[3]/preceding::a[1]</value>
+      <webElementGuid>2c30e0e0-50ca-4d1b-ba11-252215755aed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/a</value>
+      <webElementGuid>e4620de4-949f-438e-9246-ef75b68c4eb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

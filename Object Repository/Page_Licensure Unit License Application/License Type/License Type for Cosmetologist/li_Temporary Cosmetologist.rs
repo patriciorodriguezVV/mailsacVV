@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Temporary Cosmetologist</name>
+   <tag></tag>
+   <elementGuidId>8e3aceac-0bdd-489d-a66e-d2888bdbe789</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Temporary Cosmetologist']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>95a0c6fa-6862-447f-9e6a-2e05f316592c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>3fd4ce96-8d20-4908-a31c-b8d3f1c32a2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-item ng-star-inserted</value>
+      <webElementGuid>74f689cf-63ab-496b-8c89-4f0b5a3f87f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>17abab6a-ebb6-4a72-8afe-952103650803-Temporary Cosmetologist</value>
+      <webElementGuid>765d2013-c6dd-40fd-b735-cb9115c94ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d79a1e6a-ea74-43a2-aa08-f8482f3befe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>9b75408c-8af7-4e24-b0da-4d6de939d67f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Temporary Cosmetologist</value>
+      <webElementGuid>06c3b405-e6d9-4c9b-a65d-f514a6c24836</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;17abab6a-ebb6-4a72-8afe-952103650803-Temporary Cosmetologist&quot;)</value>
+      <webElementGuid>875e97b5-0b19-40b4-b0ed-e2d550617393</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='17abab6a-ebb6-4a72-8afe-952103650803-Temporary Cosmetologist']</value>
+      <webElementGuid>dbe0b329-2bbd-45c9-8ba6-b332ace5c21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='4a94dd41-d4c2-4017-99b4-9e3db538a746']/li[9]</value>
+      <webElementGuid>492e60a7-30d5-4e91-9a28-4b39b47bec89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='School of Cosmetology'])[1]/following::li[1]</value>
+      <webElementGuid>03fe7277-54a4-4bfc-ac79-3b4ff2421a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apprentice Training Salon'])[1]/following::li[2]</value>
+      <webElementGuid>738654fc-5e17-4d85-b6f3-e9ec7155357f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::li[1]</value>
+      <webElementGuid>3aa0ce98-0c67-4921-912d-528a3d9cf557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::li[1]</value>
+      <webElementGuid>5cdff24a-6b11-4480-8ae5-a9ea54ea5ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Temporary Cosmetologist']/parent::*</value>
+      <webElementGuid>56266379-aebf-4693-b1da-202cfdf888d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[9]</value>
+      <webElementGuid>7721ee44-d04c-42ed-8e47-36d07dd510d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = '17abab6a-ebb6-4a72-8afe-952103650803-Temporary Cosmetologist' and (text() = 'Temporary Cosmetologist' or . = 'Temporary Cosmetologist')]</value>
+      <webElementGuid>ec45b895-6ed6-4d92-8140-20c235e6aa11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

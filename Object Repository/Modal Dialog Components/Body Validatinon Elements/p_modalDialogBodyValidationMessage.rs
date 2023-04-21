@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_modalDialogBodyValidationMessage</name>
+   <tag></tag>
+   <elementGuidId>6a0c3a1d-1ce3-423a-89a7-af1ce9190c7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.validationusermessage</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='validationmessagearea']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>df0a177b-1ee1-452d-b207-af01ff2cdaf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>validationusermessage</value>
+      <webElementGuid>787724ad-5075-4a51-8065-e92bd1932ab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please examine the list of fields with errors that have occurred. The description by each field outlines the error that was encountered. Navigate to the field, make the appropriate correction, and then try again.</value>
+      <webElementGuid>6b365764-ad74-4b35-a4aa-c0c1b2fd0df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;validationmessagearea&quot;)/p[@class=&quot;validationusermessage&quot;]</value>
+      <webElementGuid>5dd5e8b7-d350-4674-886e-70498822c858</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='validationmessagearea']/p</value>
+      <webElementGuid>f19005c7-f67d-40f8-95f7-ee6d230eaf24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Form Validation Errors Found'])[1]/following::p[1]</value>
+      <webElementGuid>befa6557-8fd1-414d-a663-6fa680efbc43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[1]/following::p[1]</value>
+      <webElementGuid>7a8eff45-66b5-41d5-9003-9a56391be3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Out of State License'])[1]/preceding::p[1]</value>
+      <webElementGuid>bd707a80-0638-432e-a11e-b4f4e50dba16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please examine the list of fields with errors that have occurred. The description by each field outlines the error that was encountered. Navigate to the field, make the appropriate correction, and then try again.']/parent::*</value>
+      <webElementGuid>882777ce-4717-4fca-9fab-62b33313478b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/p</value>
+      <webElementGuid>ea8edceb-0c8f-4a1e-bbf9-f5b64f1407c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Please examine the list of fields with errors that have occurred. The description by each field outlines the error that was encountered. Navigate to the field, make the appropriate correction, and then try again.' or . = 'Please examine the list of fields with errors that have occurred. The description by each field outlines the error that was encountered. Navigate to the field, make the appropriate correction, and then try again.')]</value>
+      <webElementGuid>63e8ecbe-7085-41ab-8750-d45afc2d9b7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

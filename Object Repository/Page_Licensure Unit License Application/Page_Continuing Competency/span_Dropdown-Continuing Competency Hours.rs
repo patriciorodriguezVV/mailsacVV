@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Dropdown-Continuing Competency Hours</name>
+   <tag></tag>
+   <elementGuidId>2d771ac2-f2ad-4cef-9aa8-84ff1fd80753</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='k-396f65a8-f4f8-4f90-aaa5-d2c93cb47e6f']/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#k-396f65a8-f4f8-4f90-aaa5-d2c93cb47e6f > span.k-select > span.k-icon.k-i-arrow-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5900e3ac-9691-4ca9-ada2-c18d0356346e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>d4e7f831-da90-4521-92c8-698d9e73d91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-arrow-s</value>
+      <webElementGuid>6f4c36c0-27a3-4c7d-9cc2-416e154f656e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;k-396f65a8-f4f8-4f90-aaa5-d2c93cb47e6f&quot;)/span[@class=&quot;k-select&quot;]/span[@class=&quot;k-icon k-i-arrow-s&quot;]</value>
+      <webElementGuid>a73ac864-7b68-4e28-a960-ebdbdd8dd8aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='k-396f65a8-f4f8-4f90-aaa5-d2c93cb47e6f']/span[2]/span</value>
+      <webElementGuid>50afa12a-ca5e-4c26-9ac9-d1ef664028be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[242]/div[2]/div/kendo-dropdownlist/span/span[2]/span</value>
+      <webElementGuid>75627585-38c2-4357-918e-13a2fb45205f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Task Instructions</name>
+   <tag></tag>
+   <elementGuidId>b29bc295-9382-4bb4-a236-e4df88b868f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Checklist Task Instructions']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d4ae0f08-a71e-4f86-90e9-dee3e79d826f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Checklist Task Instructions</value>
+      <webElementGuid>d1782cad-6a28-4542-9d07-b907bfda89bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>22342d7a-bcd4-4324-adf3-8ad20dc0c4aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Checklist Task Instructions</value>
+      <webElementGuid>08782b91-e6c3-4273-bd5a-fc7aa4960027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldtype</name>
+      <type>Main</type>
+      <value>multilinetextbox</value>
+      <webElementGuid>1a992a77-1abb-4df3-9f03-61373752cd0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldname</name>
+      <type>Main</type>
+      <value>Checklist Task Instructions</value>
+      <webElementGuid>2ee63ec8-4855-436d-9968-2fe9098b7282</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vvfieldvalueid</name>
+      <type>Main</type>
+      <value>99457b17-866e-b75a-509b-fa8148cffb42</value>
+      <webElementGuid>e8f3d376-5c5d-431d-a710-cedba32711e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fd-textarea ng-star-inserted</value>
+      <webElementGuid>16dcc6a9-5388-41ad-ba63-a451809b9c13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You have requested a military family fee waiver for your initial license for the license Cosmetologist.  You must be an active duty service member in the armed services of the United States, a military spouse, honorably discharged veteran of the armed services of the United States, spouse of such honorably discharged veteran, and un-remarried surviving spouses of deceased service members of the armed services of the United States. To be eligible for this waiver, you must submit a copy of your ID card, discharge paperwork, or similar document that shows you are a military family member as described above.</value>
+      <webElementGuid>51cb3621-af10-4f7a-b55f-4d76d6df86eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Checklist Task Instructions&quot;)</value>
+      <webElementGuid>916551fd-be0d-4c41-a384-036ecdf41401</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='Checklist Task Instructions']</value>
+      <webElementGuid>b35ccc41-db79-4d4d-a6fe-14b778c2b2bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='k-tabstrip-tabpanel-0']/viewer-tab-form/div/div[2]/div/div/div[250]/div/div</value>
+      <webElementGuid>4fe5e104-2336-4c4a-9e2d-c2d26a54958a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHECKLIST MANAGEMENT'])[1]/following::div[4]</value>
+      <webElementGuid>a83a9c9a-07a8-4f66-85c5-af306cdaa6c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Uploaded Documents'])[11]/following::div[6]</value>
+      <webElementGuid>ab3d2952-a767-46b2-81cf-be17255f519e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comments:'])[1]/preceding::div[1]</value>
+      <webElementGuid>506ff132-d1e5-4521-b490-e8ee662a1c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Related Form'])[1]/preceding::div[5]</value>
+      <webElementGuid>dc2359dd-4558-41d2-a2cb-bb51456f765b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[250]/div/div</value>
+      <webElementGuid>aecf8bdd-d616-4b37-bceb-d5a93c865f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Checklist Task Instructions' and @id = 'Checklist Task Instructions' and (text() = 'You have requested a military family fee waiver for your initial license for the license Cosmetologist.  You must be an active duty service member in the armed services of the United States, a military spouse, honorably discharged veteran of the armed services of the United States, spouse of such honorably discharged veteran, and un-remarried surviving spouses of deceased service members of the armed services of the United States. To be eligible for this waiver, you must submit a copy of your ID card, discharge paperwork, or similar document that shows you are a military family member as described above.' or . = 'You have requested a military family fee waiver for your initial license for the license Cosmetologist.  You must be an active duty service member in the armed services of the United States, a military spouse, honorably discharged veteran of the armed services of the United States, spouse of such honorably discharged veteran, and un-remarried surviving spouses of deceased service members of the armed services of the United States. To be eligible for this waiver, you must submit a copy of your ID card, discharge paperwork, or similar document that shows you are a military family member as described above.')]</value>
+      <webElementGuid>575a6e21-05d7-4b05-b386-954918a9eab6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

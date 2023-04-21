@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_No Show</name>
+   <tag></tag>
+   <elementGuidId>31685d16-fe4b-4c84-a083-94c9edc0ea64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/ul/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ae5ee17a-569f-4cad-b144-475986922d4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b0a0f126-ca67-4ede-94c9-d5fce165558f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-item k-state-focused k-state-selected ng-star-inserted</value>
+      <webElementGuid>a97b61d6-2b1b-4261-b94d-ed5d9be1fb8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>6d0d5e2a-239f-42b5-9fa7-f89cde14149f-No Show</value>
+      <webElementGuid>b13abbe1-3d67-467c-bbb5-4f2e19567fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>41d963cf-a890-4852-8a7f-ea22fa967252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>index</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>8ea0a064-b83a-4a46-89a9-6a86de296603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Show</value>
+      <webElementGuid>8a0c859c-a85a-4f19-90db-280026a95261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6d0d5e2a-239f-42b5-9fa7-f89cde14149f-No Show&quot;)</value>
+      <webElementGuid>b11bb658-fd08-4b58-96c5-710b14627a43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='6d0d5e2a-239f-42b5-9fa7-f89cde14149f-No Show']</value>
+      <webElementGuid>372ccbbf-1960-4661-8a3a-f2a60c828103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='1bf5871f-c93f-47b4-b2d4-0b4899f7db46']/li[3]</value>
+      <webElementGuid>0ab77e12-ea1e-4363-9dc8-bc16f2d80023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fail'])[1]/following::li[1]</value>
+      <webElementGuid>90922b07-ce52-48f5-bbfb-edd3ded93c2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pass'])[1]/following::li[2]</value>
+      <webElementGuid>2d1ea39a-ec34-4896-9bc4-5b01f611b3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waived'])[1]/preceding::li[1]</value>
+      <webElementGuid>89c39234-b370-4513-b25a-66d472d4cf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/preceding::li[2]</value>
+      <webElementGuid>381378ec-ceb6-47dc-9f78-440e76590e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]</value>
+      <webElementGuid>e8dae219-86fe-4f24-92a9-27fd1fc64948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = '6d0d5e2a-239f-42b5-9fa7-f89cde14149f-No Show' and (text() = 'No Show' or . = 'No Show')]</value>
+      <webElementGuid>cbeae9e4-d6e1-4923-b47e-1e1e78666fb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
